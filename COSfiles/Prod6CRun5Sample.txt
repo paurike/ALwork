@@ -1,0 +1,5 @@
+/storage/epp2/t2k/data/nd280/production006/C/fpp/ND280/00010000_00010999/anal/oa_nd_cos_00010252-0000_u6mzlh635zkw_anal_000_v11r31-wg-bugaboo-bsdv01_2.root                                      
+/storage/epp2/t2k/data/nd280/production006/C/fpp/ND280/00010000_00010999/anal/oa_nd_cos_00010252-0010_dvkhdotjonnd_anal_000_v11r31-wg-bugaboo-bsdv01_2.root                                      
+/storage/epp2/t2k/data/nd280/production006/C/fpp/ND280/00010000_00010999/anal/oa_nd_cos_00010252-0020_q4ttladmp7ks_anal_000_v11r31-wg-bugaboo-bsdv01_2.root                                      
+/storage/epp2/t2k/data/nd280/production006/C/fpp/ND280/00010000_00010999/anal/oa_nd_cos_00010253-0003_j4do77kt56g5_anal_000_v11r31-wg-bugaboo-bsdv01_2.root                                      
+/storage/epp2/t2k/data/nd280/production006/C/fpp/ND280/00010000_00010999/anal/oa_nd_cos_00010254-0003_4d5mzxun632y_anal_000_v11r31-wg-bugaboo-bsdv01_2.root                                      
