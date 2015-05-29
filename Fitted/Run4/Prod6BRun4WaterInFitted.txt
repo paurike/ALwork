@@ -1,0 +1,10 @@
+Run 4
+detector	dx	dx_e	dy	dy_e	dz	dz_e	n_points
+bottom_right	2.36	0.16	1.19	0.17	-2.35	0.20	6235
+right       	0.82	0.19	0.37	0.29	0.33	0.25	1991
+top_right   	-0.62	0.13	-0.14	0.13	-1.86	0.15	8176
+bottom_left 	0.23	0.16	0.60	0.18	-1.72	0.21	6085
+left        	1.63	0.15	0.08	0.23	-0.08	0.20	2326
+top_left    	-4.52	0.14	0.44	0.14	-2.98	0.16	8116
+downstream  	Failed to fit - 0 points
+
